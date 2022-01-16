@@ -1,11 +1,8 @@
 Hey, ich bin Kuweliooo, ich Interessiere mich für den Aufbau von Webseiten und vielen anderen dingen!
 Meine Programmiersprachen : 
 
-- C
-- HTML
-- CSS
-- JS
+-C#
 
-Mein Discord : Kuwelio#6988
+Mein Discord : Kuwelio#0001
 
 Bis denne!
